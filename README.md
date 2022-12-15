@@ -62,7 +62,7 @@ This is a curated list of abbreviations you are expected to know as resident of 
 
 **FOMO**: Fear of missing out
 
-*Frag**: Friendship Agreement
+**Frag**: Friendship Agreement
 
 **FTW**: For the win
 
@@ -82,7 +82,7 @@ This is a curated list of abbreviations you are expected to know as resident of 
 
 **HBD**: Happy birthday
 
-**HDD*: Hard Disk Drive
+**HDD**: Hard Disk Drive
 
 **HD**: High Definition / Hard Drive
 
