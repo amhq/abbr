@@ -44,6 +44,8 @@ This is a curated list of abbreviations you are expected to know as resident of 
 
 **DAE**: Does anyone else
 
+**DDD**: (The) Democracy of the Domain of Discourse
+
 **DM**: Direct message
 
 **DRY**: Don't Repeat Yourself
@@ -158,6 +160,8 @@ This is a curated list of abbreviations you are expected to know as resident of 
 
 **Org**: Organisation/orgy
 
+**OS**: Operating System
+
 **OTOH**: On the other hand
 
 ## P
@@ -187,8 +191,6 @@ This is a curated list of abbreviations you are expected to know as resident of 
 ## T
 
 **TB(H/F), tb(h/f)**: To be honest/frank
-
-**TDDD**: The Democracy of the Domain of Discourse
 
 **TMI**: Too much information
 
